@@ -41,6 +41,10 @@ public class Hw1 {
         System.out.println("KPH is " + kph);
 
 
+        // Close the Scanner object
+        scanHelper.close();
+
+
     }
 
 }
