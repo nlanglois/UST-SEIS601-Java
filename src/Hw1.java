@@ -36,6 +36,11 @@ public class Hw1 {
         System.out.println("MPH is " + mph);
 
 
+
+        double kph = mph * 1.6;
+        System.out.println("KPH is " + kph);
+
+
     }
 
 }
